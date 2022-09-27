@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Reach
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning how to code in many different technologies.
+- :v:A Big Fan Of Algorithm In Turing Machine
 
 💻Languages/Frameworks and technologies:
 
