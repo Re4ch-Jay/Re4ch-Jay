@@ -2,11 +2,9 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning how to code in many different technologies.
 
-💻 Programming Languages:
-JavaScript C C++ Java C# Python
+💻Languages/Frameworks and technologies:
 
-💻 Web Development Languages and Frameworks:
-HTML CSS React NodeJS Express MongoDB NextJS
+JavaScript React NodeJS Express MongoDB NextJS HTML CSS
 
 
 
