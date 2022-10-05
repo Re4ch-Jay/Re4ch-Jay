@@ -3,9 +3,13 @@
 - 🌱 I’m currently learning how to code in many different technologies.
 - :v: A Big Fan Of Algorithm In Turing Machine
 
-💻Languages/Frameworks and technologies:
+💻Languages/Frameworks:
 
 JavaScript React NodeJS Express MongoDB NextJS HTML CSS
+
+💻Others Programming Languages:
+
+C/C++
 
 
 
