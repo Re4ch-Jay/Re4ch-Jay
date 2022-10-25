@@ -5,11 +5,18 @@
 
 💻Languages/Frameworks:
 
-JavaScript React NodeJS Express MongoDB NextJS HTML CSS
+- JavaScript 
+- React 
+- NodeJS 
+- Express
+- MongoDB 
+- NextJS 
+- HTML 
+- CSS
 
 💻Others Programming Languages:
 
-C/C++
+- C/C++
 
 
 
