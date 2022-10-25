@@ -11,12 +11,12 @@
 - Express
 - MongoDB 
 - NextJS 
-- HTML 
-- CSS
-
+- React Native
+- 
 💻Others Programming Languages:
 
 - C/C++
+- Python
 
 
 
