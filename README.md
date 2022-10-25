@@ -12,7 +12,7 @@
 - MongoDB 
 - NextJS 
 - React Native
-- 
+
 💻Others Programming Languages:
 
 - C/C++
