@@ -5,7 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/froldanzafra/](https://www.linkedin.com/in/panhareach-phat-0a5897249/))
 
 Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
-
+<a href="https://github.com/Re4ch-Jay">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
+</a>
+<a href="https://github.com/Re4ch-Jay">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+</a>
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
@@ -38,12 +43,7 @@ Welcome to my Github page! I am Reach and I am currently studying my Computer Sc
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay)](https://github.com/anuraghazra/github-readme-stats) 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
-</a>
-<a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
-</a>
+
 <!---
 Re4ch-Jay/Re4ch-Jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
