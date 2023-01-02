@@ -22,7 +22,7 @@ Welcome to my Github page! I am Reach and I am currently studying my Computer Sc
 #### :muscle: Things I am challenging myself with:
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Working on own project
+- Working on own my project
 - Improving my CV with some education apart from university, project and experience
 
 #### :computer: Programming languages and tools: 
