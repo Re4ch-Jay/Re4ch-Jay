@@ -2,7 +2,7 @@
 ### This is Phat Panhareach!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Re4ch-Jay)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panhareach-phat-0a5897249/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panhareach-phat-0a5897249/)
 
 Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
 <a href="https://github.com/Re4ch-Jay/">
