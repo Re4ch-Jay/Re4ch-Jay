@@ -3,15 +3,11 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Re4ch-Jay)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panhareach-phat-0a5897249/)
-
-Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
-<br>
-<a href="https://github.com/Re4ch-Jay/">
-  <img src="https://img.shields.io/github/followers/Re4ch-Jay">
-</a>
 <a href="https://github.com/Re4ch-Jay/">
    <img src="https://komarev.com/ghpvc/?username=Re4ch-Jay">
 </a>
+Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
+<br>
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
