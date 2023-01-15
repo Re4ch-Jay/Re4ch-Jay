@@ -9,8 +9,7 @@
 <br>
 Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&hide_border=true)
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Degree  
