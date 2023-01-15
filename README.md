@@ -25,7 +25,7 @@ Welcome to my Github page! I am Reach and I am currently studying my Computer Sc
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://img.shields.io/github/followers/Re4ch-Jay?label=Follow" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
