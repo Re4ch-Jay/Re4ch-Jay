@@ -25,7 +25,7 @@ Welcome to my Github page! I am Reach and I am currently studying my Computer Sc
 
 #### :computer: Programming languages and tools: 
 <p>
-	![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
@@ -40,7 +40,7 @@ Welcome to my Github page! I am Reach and I am currently studying my Computer Sc
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Re4ch-Jay/Re4ch-Jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
