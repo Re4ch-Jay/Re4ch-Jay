@@ -9,8 +9,7 @@
 <br>
 Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
+<img align="right" alt="img" src="https://github.com/Re4ch-Jay/bmr_calculator_flutter/blob/main/images/preview.png" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Degree  
