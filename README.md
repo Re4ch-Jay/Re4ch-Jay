@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img src="images/wallpaper.png"/>
+
 
 <br>
 
@@ -10,6 +10,8 @@
 </a>
 <br>
 
+<img src="images/wallpaper.png"/>
+
 Welcome to my Github page! 
 
 - I ❤️ coding
@@ -18,7 +20,11 @@ Welcome to my Github page!
 - I ❤️ Flutter for Cross Platform Development
 - I ❤️ building <a href="https://github.com/Re4ch-Jay/Open-Source-Flutter-Projects">mobile app</a> when I have free time
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="align: right">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <div style="align: right">
 
