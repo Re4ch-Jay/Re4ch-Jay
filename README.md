@@ -9,10 +9,7 @@
 <br>
 Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Science Degree  
-- Explore Software Development and Data Science
-- Demo project on YouTube
+- ❤️ I love coding
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
