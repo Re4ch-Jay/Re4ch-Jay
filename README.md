@@ -9,18 +9,10 @@
 <br>
 Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
 
-<img align="right" alt="img" src="https://github.com/Re4ch-Jay/Meditation_App/blob/main/assets/images/demo.png" width="50%" height="auto" />
-
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Degree  
 - Explore Software Development and Data Science
 - Demo project on YouTube
-
-#### :muscle: Things I am challenging myself with:
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Working on own my project
-- Improving my CV with some education apart from university, project and experience
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
