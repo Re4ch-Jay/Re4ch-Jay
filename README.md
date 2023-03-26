@@ -7,9 +7,14 @@
    <img src="https://komarev.com/ghpvc/?username=Re4ch-Jay">
 </a>
 <br>
-Welcome to my Github page! I am Reach and I am currently studying my Computer Science degree at Cambodia Academy Of Digital Technology!  
 
-- ❤️ I love coding
+Welcome to my Github page! 
+
+- I ❤️ coding
+- I ❤️ Laravel, Express for Backend, APIs
+- I ❤️ React for bulding UI on the Web
+- I ❤️ Flutter for Cross Platform Development
+- I ❤️ building <a href="https://github.com/Re4ch-Jay/Open-Source-Flutter-Projects">mobile app</a> when I have free time
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
