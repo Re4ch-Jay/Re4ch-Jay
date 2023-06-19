@@ -15,9 +15,9 @@
 Welcome to my Github page! 
 
 - I ❤️ coding
-- I ❤️ <a href="https://laravel.com/">Laravel</a>, <a href="https://expressjs.com/">Express</a> for Backend, APIs
-- I ❤️ <a href="https://react.dev/">React</a> for bulding UI on the Web
-- I ❤️ <a href="https://flutter.dev/">Flutter</a> for Cross Platform Development
+- I ❤️ <a href="https://flutter.dev/">Flutter</a> for Cross-Platform Development
+- I ❤️ <a href="https://laravel.com/">Laravel</a> for Backend, APIs
+- I ❤️ <a href="https://react.dev/">React</a> for building UI on the Web
 - I ❤️ building <a href="https://github.com/Re4ch-Jay/Open-Source-Flutter-Projects">mobile app</a> when I have free time
 
 <div style="align: right">
