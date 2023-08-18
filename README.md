@@ -20,6 +20,7 @@ Welcome to my Github page!
 - I ❤️ testing the code
 - I ❤️ <a href="https://react.dev/">React</a> for building UI on the Web
 - I ❤️ building <a href="https://github.com/Re4ch-Jay/Open-Source-Flutter-Projects">mobile app</a> when I have free time
+- - I ❤️ writing blogs article for the (https://dcc.gov.kh/)[Digital Community of Cambodia] in the weekend
 
 <div style="align: right">
 
