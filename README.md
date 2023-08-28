@@ -5,6 +5,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Re4ch-Jay)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panhareach-phat-0a5897249/)
+[![committers.top badge](https://user-badge.committers.top/cambodia/Re4ch-Jay.svg)](https://user-badge.committers.top/cambodia/Re4ch-Jay) <img src="https://komarev.com/ghpvc/?username=Re4ch-Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Re4ch-Jay" /> 
 <a href="https://github.com/Re4ch-Jay/">
    <img src="https://komarev.com/ghpvc/?username=Re4ch-Jay">
 </a>
