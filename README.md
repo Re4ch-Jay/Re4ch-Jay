@@ -14,7 +14,7 @@
 Welcome to my GitHub page! 
 
 - I like coding
-- I use <a href="https://laravel.com/">Laravel</a> for Backend, APIs
+- I use <a href="https://laravel.com/">Laravel</a> for Backend, APIs, and Monolith Web
 - I like to test the code
 - I use Digital Ocean, Google Cloud, and Forge for hosting WEB, APIs, or Database
 - I use <a href="https://flutter.dev/">Flutter</a> for Cross-Platform Development
