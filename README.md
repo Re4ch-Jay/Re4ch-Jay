@@ -11,17 +11,15 @@
 </a>
 <br>
 
-<img src="images/wallpaper.png"/>
+Welcome to my GitHub page! 
 
-Welcome to my Github page! 
-
-- I ❤️ coding
-- I ❤️ <a href="https://flutter.dev/">Flutter</a> for Cross-Platform Development
-- I ❤️ <a href="https://laravel.com/">Laravel</a> for Backend, APIs
-- I ❤️ testing the code
-- I ❤️ <a href="https://react.dev/">React</a> for building UI on the Web
-- I ❤️ building <a href="https://github.com/Re4ch-Jay/Open-Source-Flutter-Projects">mobile app</a> when I have free time
-- I ❤️ writing blogs article for the <a href="https://dcc.gov.kh/">Digital Community of Cambodia</a> in the weekend
+- I like coding
+- I use <a href="https://laravel.com/">Laravel</a> for Backend, APIs
+- I like to test the code
+- I use Digital Ocean, Google Cloud, and Forge for hosting WEB, APIs, or Database
+- I use <a href="https://flutter.dev/">Flutter</a> for Cross-Platform Development
+- I use <a href="https://react.dev/">React</a> for building UI on the Web
+- I write blogs article for the <a href="https://dcc.gov.kh/">Digital Community of Cambodia</a> in the weekend
 
 <div style="align: right">
 
