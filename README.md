@@ -16,7 +16,7 @@ Welcome to my GitHub page!
 - I like coding
 - I use <a href="https://laravel.com/">Laravel</a> for Backend, APIs, and Monolith Web
 - I like to test the code
-- I use Digital Ocean(App Platform)[https://www.digitalocean.com/products/app-platform], (Google Cloud)[https://cloud.google.com/?hl=en], and (Forge)[https://forge.laravel.com/] for hosting WEB, APIs, or Database
+- I use Digital Ocean [App Platform](https://www.digitalocean.com/products/app-platform), [Google Cloud](https://cloud.google.com/?hl=en), and [Forge](https://forge.laravel.com/) for hosting WEB, APIs, or Database
 - I use <a href="https://flutter.dev/">Flutter</a> for Cross-Platform Development
 - I use <a href="https://react.dev/">React</a> for building UI on the Web
 - I write blogs article for the <a href="https://dcc.gov.kh/">Digital Community of Cambodia</a> in the weekend
