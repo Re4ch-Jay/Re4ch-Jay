@@ -21,26 +21,13 @@ Welcome to my GitHub page!
 - I use <a href="https://react.dev/">React</a> for building UI on the Web
 - I write blogs article for the <a href="https://dcc.gov.kh/">Digital Community of Cambodia</a> in the weekend
 
-<div style="align: right">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&theme=transparent&show_icons=true" alt="Phat Panhareach's GitHub Stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div style="align: right">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&theme=transparent)
-
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&theme=transparent)
-</div>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&count_private=true&theme=transparent&show_icons=true&hide=css&layout=compact&card_width=270" alt="Phat Panhareach's Most Used GitHub Languages" />
+</a>
 
 <!---
 Re4ch-Jay/Re4ch-Jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
