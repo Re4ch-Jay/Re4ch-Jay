@@ -21,15 +21,17 @@ Welcome to my GitHub page!
 - I use <a href="https://react.dev/">React</a> for building UI on the Web
 - I write blogs article for the <a href="https://dcc.gov.kh/">Digital Community of Cambodia</a> in the weekend
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-    <div>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&theme=transparent)
-    </div>
+<div style="align: right">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
+<div style="align: right">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&theme=transparent)
+
+</div>
 <!---
 Re4ch-Jay/Re4ch-Jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
