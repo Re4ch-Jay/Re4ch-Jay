@@ -26,7 +26,7 @@ Welcome to my GitHub page!
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&count_private=true&theme=transparent&show_icons=true&hide=css&layout=compact&card_width=270" alt="Phat Panhareach's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&count_private=true&theme=transparent&show_icons=true&hide=css&layout=compact&card_width=270&langs_count=10" alt="Phat Panhareach's Most Used GitHub Languages" />
 </a>
 
 <!---
