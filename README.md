@@ -23,10 +23,10 @@ Welcome to my GitHub page!
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact&theme=transparent&langs_count=10)]
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re4ch-Jay&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     <div>
-        ![Re4ch-Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&theme=transparent)
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re4ch-Jay&show_icons=true&theme=transparent)
     </div>
 </div>
 
