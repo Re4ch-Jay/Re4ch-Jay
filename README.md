@@ -13,7 +13,7 @@
 
 Welcome to my GitHub page! 
 
-- I like coding
+- I like coding, writing, reading
 - I use <a href="https://laravel.com/">Laravel</a> for Backend, APIs, and Monolith Web
 - I like to test the code using [PHPUnit](https://phpunit.de/), [Pest](https://pestphp.com/)
 - I use [Digital Ocean (App Platform, Droplets)](https://www.digitalocean.com/), [Google Cloud](https://cloud.google.com/?hl=en), and [Forge](https://forge.laravel.com/) for hosting WEB, APIs, or Database
